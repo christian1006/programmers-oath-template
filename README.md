@@ -19,7 +19,7 @@ ___
 
 ## First Promise: 
 
-Rewrite [the first promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIJzAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D36NgPu9OyRM&usg=AOvVaw0ou3BcQNAflHJjk6fPJw7c) in your own words.
+Rewrite [the first promise](https://www.google.be/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjCirufkZnaAhUMjqQKHQxPDyQQtwIIJzAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D36NgPu9OyRM&usg=AOvVaw0ou3BcQNAflHJjk6fPJw7c) in your own words. I will write code to the best of my abilities and I will not write any harmful code that would not be good for the society.
 
 [TOP](#the-programmers-oath)
 
